@@ -1,0 +1,15 @@
+{
+  "name": "constitution",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kwiniaskaridge/constitution.git",
+  "author": "<randall@randallmorey.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "doctoc": "^2.0.0"
+  },
+  "scripts": {
+    "toc": "doctoc *.md"
+  }
+}
